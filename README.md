@@ -1,6 +1,6 @@
-# Power Forecast ML Pipeline (Senior Lecturer Portfolio)
+# Power Forecast ML Pipeline (Portfolio)
 
-This repository is a **Senior Lecturer / Researcher portfolio artifact** demonstrating an end‑to‑end, reproducible **time series regression pipeline** for energy consumption forecasting.
+This repository is a demonstrating an end‑to‑end, reproducible **time series regression pipeline** for energy consumption forecasting.
 
 It is designed to be:
 - **Teach-ready** (clear structure, tasks, extensions),
@@ -47,7 +47,7 @@ We evaluate using:
 - **RMSE (Root Mean Squared Error)**  
   $$\mathrm{RMSE}=\sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i-\hat{y}_i)^2}$$
 
-## Portfolio framing (Senior Lecturer)
+## Portfolio framing
 This repo demonstrates:
 - **Curriculum fit**: Applied ML / Data Analytics / Time Series
 - **Best practices**: pipelines, reproducibility, clear evaluation
